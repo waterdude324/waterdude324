@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @waterdude324
-- 👀 I’m interested in ...
+- 👀 I’m interested in learning more about the Flipper Zero
 - 🌱 I’m currently learning how to use Flipper Zero 
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
